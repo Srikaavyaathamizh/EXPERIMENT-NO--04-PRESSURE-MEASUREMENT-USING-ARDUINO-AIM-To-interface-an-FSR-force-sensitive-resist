@@ -23,7 +23,7 @@ FSRs are basically a resistor that changes its resistive value (in ohms Ω) depe
 
 
 
-![image](https://user-images.githubusercontent.com/36288975/163532957-82d57567-a1c3-48c5-8a87-7ea66d6fca49.png)
+![image](https://user-images.githubusercontent.com/36288975/163532957-82d57567-a1c3-48c5-8a87-7ea66d6fca49.png
 
 
 
@@ -115,6 +115,11 @@ if(m>5)
 
 
 ### TABLE -02 standard deviation table 
+
+![Screenshot 2024-02-29 115659](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870938/9ad0d079-d5a5-4d54-84b3-79b432fedb5e)
+
+![Screenshot 2024-02-29 114914](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870938/31400a14-d1d2-4b25-9733-e8cddd599f0e)
+
 
 
 ### Population Standard Deviation
