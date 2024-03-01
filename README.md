@@ -60,6 +60,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 ### FIGURE-03 CIRCUIT DIAGRAM
 
+![Screenshot 2024-02-29 132016](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870938/70f7c491-1517-439b-b7af-c1ca49c8ece0)
+
+![Screenshot 2024-02-29 132028](https://github.com/Srikaavyaathamizh/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/144870938/721c0a44-791b-4ff8-822a-e363d7b55f5c)
 
 
 ### PROCEDURE:
@@ -76,9 +79,9 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 
 
 ### PROGRAM 
- *your roll no : 212223230214
- * your name : SRIKAAVYAA T
- * department and year : AI&DS Iyear
+ *REGISTER NO : 212223230214
+* NAME: SRIKAAVYAA T
+ * DEPT AND YEAR : AI&DS 
 ```
 int fsr;
 int LED= 7;
@@ -134,19 +137,10 @@ N is the total number of values
 
 For those unfamiliar with summation notation, the equation above may seem daunting, but when addressed through its individual components, this summation is not particularly complicated. The i=1 in the summation indicates the starting index, i.e. for the data set 1, 3, 4, 7, 8, i=1 would be 1, i=2 would be 3, and so on. Hence the summation notation simply means to perform the operation of (xi - μ)2 on each value through N, which in this case is 5 since there are 5 values in this data set.
 
-EX:           μ = (1+3+4+7+8) / 5 = 4.6        
-σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
-σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
+EX:           
 
-
-
-
-
-
-
-
-
-
+μ = (2+3+4+5+6+7+8+8+9+10) / 10 = 5.2
+σ = √[(1.11-5.2)2 + (1.46-5.2)2 + ... + (10-5.2)2)]/10 σ = √(12.96+12.96+6.76+....+16.36)/10 = 0.8
 
 
 
